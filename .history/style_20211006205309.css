@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 20px 0;
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+img{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+.flex-box{
+    background: #fff;
+    padding-left: 17%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.banner{
+    width: 100%;
+}
+
+.banner img{
+    width: 100%;
+    border-radius: 8px;
+}

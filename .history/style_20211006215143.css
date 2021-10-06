@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+img{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+.banner{
+    background: transparent;
+    height: auto;
+    padding: 10px 50px;
+}
+
+.banner hr{
+    height: 1px;
+    display: grid;
+}
+.banner a img{
+    display: block;
+    text-align: center;
+    width: 100px;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 8px;
+}
+
+.main .heading{
+    text-align: center;
+    display: block;
+}
+
+.sign-in-form{
+    display: block;
+    outline: none;
+    padding-top: 50px;
+    background: transparent;
+}
+
+.pin label{
+    display: block;
+    text-align: center;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid #fff;
+}
+
+.pin p{
+    display: block;
+    padding-left: 280px;
+}
+
+.pin button{
+    color: blue;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.forget-psswd{
+    display: block;
+    text-align: center;
+}
+

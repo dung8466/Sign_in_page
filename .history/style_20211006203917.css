@@ -1,0 +1,11 @@
+.main-header{
+    display: block;
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+    border-bottom-color: transparent;
+    padding: 20px 0;
+    text-align: center;
+    margin: 0;
+    outline: none;
+    box-sizing: border-box;
+}
